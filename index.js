@@ -56,9 +56,6 @@ o.buildDate = /*date*/"Sun, 24 Feb 2013 18:11:42 GMT"; // injected by build proc
 * OTHER DEALINGS IN THE SOFTWARE.
 */
 
-// namespace:
-this.createjs = exports;
-
 (function() {
 
 /**
@@ -261,9 +258,6 @@ createjs.EventDispatcher = EventDispatcher;
 /**
  * @module PreloadJS
  */
-
-// namespace:
-this.createjs = exports;
 
 (function() {
 
@@ -626,8 +620,6 @@ this.createjs = exports;
  * @main PreloadJS
  */
 
-// namespace:
-this.createjs = exports;
 
 //TODO: JSONP support?
 //TODO: addHeadTags support
@@ -2093,9 +2085,6 @@ TODO: WINDOWS ISSUES
  * @module PreloadJS
  */
 
-// namespace:
-this.createjs = exports;
-
 (function() {
 
 	/**
@@ -2369,9 +2358,6 @@ this.createjs = exports;
 /**
  * @module PreloadJS
  */
-
-// namespace:
-this.createjs = this.createjs || {};
 
 (function () {
 
