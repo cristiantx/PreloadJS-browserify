@@ -1,0 +1,19 @@
+{
+  "name": "PreloadJS-browserify",
+  "version": "0.0.0",
+  "description": "preloadjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/leshy/PreloadJS-browserify.git"
+  },
+  "author": "lesh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/leshy/PreloadJS-browserify/issues"
+  },
+  "homepage": "https://github.com/leshy/PreloadJS-browserify"
+}
